@@ -1,0 +1,2 @@
+# bulgar_loadingscreen_config_example
+bulgar_loadingscreen_config_example
