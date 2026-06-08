@@ -18,7 +18,7 @@
 
 const LoadingScreenSettings = {
     // General
-	  WelcomeText: "Welcome, Traveler!", // LEAVE EMPTY IF U WANT
+	WelcomeText: "Welcome, Traveler!", // LEAVE EMPTY IF U WANT
     Title: "BulgaR Scripts", // LEAVE EMPTY IF U WANT
     Subtitle: "Loading RedM server...", // LEAVE EMPTY IF U WANT
 
