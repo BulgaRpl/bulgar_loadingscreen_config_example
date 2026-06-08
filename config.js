@@ -40,7 +40,7 @@ const LoadingScreenSettings = {
     Start: "START GAME",
     Entering: "ENTERING...",
 	
-	  InfoLabel: "INFO",
+	InfoLabel: "INFO",
 
 	  // IF U SET Info: [], then its disabled
   	Info: [
